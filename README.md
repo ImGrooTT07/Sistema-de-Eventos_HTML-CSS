@@ -17,14 +17,6 @@ O objetivo é simular um sistema de visualização de eventos, com layout modern
 
 ---
 
-## 🧱 Estrutura do Projeto
-/projeto
-│── index.html
-│── style.css
-
-
----
-
 ## 🎨 Tecnologias Utilizadas
 
 - HTML5  
